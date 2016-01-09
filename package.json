@@ -1,0 +1,24 @@
+{
+  "name": "filereader.js",
+  "version": "1.0.0",
+  "description": "A convenient HTML5 file reader API",
+  "main": "filereader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnabk/filereader.js.git"
+  },
+  "keywords": [
+    "file",
+    "reader",
+    "html5"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arnabk/filereader.js/issues"
+  },
+  "homepage": "https://github.com/arnabk/filereader.js#readme"
+}
